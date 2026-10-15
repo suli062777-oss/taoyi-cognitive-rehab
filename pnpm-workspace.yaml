@@ -1,0 +1,5 @@
+packages:
+  - '.'
+storeDir: .cache/pnpm-store
+cacheDir: .cache/pnpm
+enableGlobalVirtualStore: false
